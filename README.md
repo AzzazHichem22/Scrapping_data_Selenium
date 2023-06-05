@@ -1,6 +1,6 @@
 # Scrapping_data_Selenium
 
-#Description
+# Description
 The Amazon Article Scraper is a Python project that allows users to scrape articles related to a given search query from the Amazon website. It utilizes the Selenium library for web scraping. The project is based on an article titled "Web Scraping with Selenium in Python" by Ranchana Kiriyapong.
 
 # Installation
